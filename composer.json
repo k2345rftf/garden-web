@@ -1,0 +1,17 @@
+{
+    "name": "k2345rftf/garden-web",
+    "authors": [
+        {
+            "name": "Kirill Furzanov",
+            "email": "furzanov1998@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "PSR-4": {
+            "Engine\\": "engine",
+            "Engine\\Core\\": "engine/Core"
+        }
+    }
+}
